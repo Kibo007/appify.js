@@ -1,3 +1,9 @@
+/*!
+ *  author:  Bojan Dragojevich
+ *  url:     http://dragojevich.com/
+ *  source:  https://github.com/Kibo007/appify.js
+ *  version: 0.1 (2013-06-13)
+ */
 
 ;(function ( $ ) {
 	$.fn.appify = function() {
