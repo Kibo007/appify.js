@@ -6,9 +6,11 @@ jQuery plugin will enable you to stay In Full Screen Mode on the iPhone, iPad an
 
 If you made responsive website and added in meta tag something like this
 
+<blockquote>
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0, user-scalable=no" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+</blockquote>
 
 you will be able to add to home screen of iPhone/iPad/iPod your website and surf around in full screen mode.
 
@@ -16,11 +18,15 @@ But wen you click on any link in your website you will be redirected back to saf
 
 To keep experience of the web app in full screen mode just add appify.js to your project folder and link ti to your page like this:
 
+<blockquote>
 <script type="text/javascript" src="appify.js"></script>
+</blockquote>
 
 after that you just need to initialize plugin like this:
 
+<blockquote>
 $('body').addify();
+</blockquote>
 
 and it is done! You have perfect full screen mode capable web app :D
 
