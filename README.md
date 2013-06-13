@@ -29,11 +29,11 @@ and it is done! You have perfect full screen mode capable web app :D
 Additional explanation 
 ======================
 
-Appify will take all links inside html tag on which you bind him and take look if link have attribute target="_blank". If target is _blank it will open your link in safari, but if link don't have attribute target _blank, it will preserve your surfing in full screen mode.
+Appify will take all links inside html tag on which you bind him and take look if link have attribute <code>target="_blank"</code>. If target is <code>_blank</code> it will open your link in safari, but if link don't have attribute target <code>_blank</code>, it will preserve your surfing in full screen mode.
 
 In that way you can control what you want to open in safari, what you want to keep in full screen mode.
 
-e.g. if you have some PDF and you want to give possibility to users to open it in iBooks or some other app they use, you just put attribute target="_blank" and that's it.
+e.g. if you have some PDF and you want to give possibility to users to open it in iBooks or some other app they use, you just put attribute <code>target="_blank"</code> and that's it.
 
 If you find any bug, or you have any advice, don't hesitate to open an issue.
 
