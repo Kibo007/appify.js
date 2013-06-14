@@ -14,7 +14,7 @@ If you made responsive website and added in meta tag something like this
 
 you will be able to add your website to home screen of iPhone/iPad/iPod surf around in full screen mode.
 
-But wen you click on any link in your website you will be redirected back to safari.
+But when you click on any link in your website you will be redirected back to safari.
 
 To preserve experience of the web app in full screen mode just add appify.js to your project folder and link ti to your page like this:
 
